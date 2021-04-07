@@ -31,10 +31,4 @@
 <br/>
 <br/>
 <br/>
-<br/>
-  <h1 align="center">Contact</h1>
-<br/>
-  - ✏️ You can email me on <a href="mailto:contact.midoudev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br/>
-  - ✏️ In <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> : "**Mehdi <MidouWebDev />#9105**" 
- 
-<br/>
+
