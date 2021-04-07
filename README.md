@@ -7,8 +7,7 @@
 
   - 👨🏽‍💻 I am a Full Stack Developer.
   - ⚡ I am Currently learning, working my skills in web development.
-  - 📌 I am currently contributing to the open source project [Mumble](https://github.com/divanov11/Mumble).
-  - ✏️ You can reach me : <a href="mailto:contact.midoudev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  - 📌 **I am currently contributing to the open source project [Mumble](https://github.com/divanov11/Mumble)**
 
 <br/>
   
@@ -33,7 +32,9 @@
 <br/>
 <br/>
 <br/>
-  <h1 align="center">⚡ GitHub Stats</h1>
+  <h1 align="center">Contact</h1>
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=midouwebdev&theme=dark&show_icons=true">
+  - ✏️ You can email me on <a href="mailto:contact.midoudev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  - ✏️ In <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> : **Mehdi <MidouWebDev />#9105** 
+ 
 <br/>
