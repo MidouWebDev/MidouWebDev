@@ -1,24 +1,16 @@
 #
 
-<br/>
-
-<div align="center">
-  <img height="150" src="banner.png">
-</div>
-
-#
-
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I am a Student and Developer !
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/>Hi, I am Mehdi - MidouWebDev 
 </h3>
-  
+
 #
 
 <br/>
 
-  - 👨🏽‍💻 I am a Full-Stack Developer.
-  - ⚡ I am Currently learning, working my skills in web development.
-  - 😉 Open source enthusiast
+  - 👨🏽‍💻 **I am a Full-Stack Developer.**
+  - ⚡ I am Currently **learning, working my skills in web development.**
+  - **😉 Open source enthusiast**
   
 #
 
@@ -107,12 +99,15 @@
 
 #
 
-<details>
-  <summary>Recent GitHub Activity</summary>
-    <!--START_SECTION:activity-->
+<h3 align="center">
+  ⚡ Recent GitHub Activity
+</h3>
+
+<br/>
+
+  <!--START_SECTION:activity-->
 
 1. 🎉 Merged PR [#78](https://github.com/divanov11/mumbleapi/pull/78) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
     
     <!--END_SECTION:activity-->
 
-</details>
