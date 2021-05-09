@@ -1,7 +1,7 @@
 #
 
 <div align="center">
-<img src="./my-avatar.jpg" width="150px">
+<img src="./my-avatar.jpg" width="180px">
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/>Hi, I am Mehdi - MidouWebDev 
 </h3>
