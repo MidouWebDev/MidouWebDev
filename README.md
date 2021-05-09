@@ -97,12 +97,8 @@
 <br/>
 
   ![MidouWebDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MidouWebDev&show_icons=true&theme=react)
-
+  
 <br/>
-
-  <!--START_SECTION:waka-->
-
-  <!--END_SECTION:waka-->
 
 </div>
 
