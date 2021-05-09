@@ -106,8 +106,8 @@
 <br/>
 
   <!--START_SECTION:activity-->
-
 1. 🎉 Merged PR [#78](https://github.com/divanov11/mumbleapi/pull/78) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
-    
+2. 💪 Opened PR [#78](https://github.com/divanov11/mumbleapi/pull/78) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
+3. 🎉 Merged PR [#74](https://github.com/divanov11/mumbleapi/pull/74) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
     <!--END_SECTION:activity-->
 
