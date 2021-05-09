@@ -1,8 +1,11 @@
 #
 
+<div align="center">
+<img src="./my-avatar.jpg" width="150px">
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/>Hi, I am Mehdi - MidouWebDev 
 </h3>
+</div>
 
 #
 
@@ -94,6 +97,35 @@
 <br/>
 
   ![MidouWebDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MidouWebDev&show_icons=true&theme=react)
+
+<br/>
+
+  <!--START_SECTION:waka-->
+
+  <!--END_SECTION:waka-->
+
+</div>
+
+#
+
+<h3 align="center">
+  How to reach me ?
+</h3>
+
+<br/>
+
+<div align="center">
+<a href="mailto:contact.midoudev@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discordapp.com/users/9105">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+> ⚠ My Discord Id : Mehdi < MidouWebDev /> #9105
 
 </div>
 
