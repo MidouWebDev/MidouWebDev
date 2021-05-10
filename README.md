@@ -135,8 +135,8 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/divanov11/mumbleapi/pull/78) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
-2. 💪 Opened PR [#78](https://github.com/divanov11/mumbleapi/pull/78) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
-3. 🎉 Merged PR [#74](https://github.com/divanov11/mumbleapi/pull/74) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
+1. ❗️ Opened issue [#344](https://github.com/divanov11/Mumble/issues/344) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+2. 🎉 Merged PR [#79](https://github.com/divanov11/mumbleapi/pull/79) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
+3. 💪 Opened PR [#79](https://github.com/divanov11/mumbleapi/pull/79) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
     <!--END_SECTION:activity-->
 
