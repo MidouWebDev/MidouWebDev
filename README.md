@@ -106,7 +106,7 @@
 #
 
 <h3 align="center">
-  How to reach me ?
+  💬 How to reach me ?
 </h3>
 
 <br/>
@@ -138,5 +138,13 @@
 1. 🎉 Merged PR [#346](https://github.com/divanov11/Mumble/pull/346) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 2. 🗣 Commented on [#345](https://github.com/divanov11/Mumble/issues/345) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 3. ❗️ Closed issue [#345](https://github.com/divanov11/Mumble/issues/345) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+
+
+
+
+
+
+
+
     <!--END_SECTION:activity-->
 
