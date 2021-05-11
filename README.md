@@ -140,16 +140,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#348](https://github.com/divanov11/Mumble/issues/348) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+1. 💪 Opened PR [#1](https://github.com/MidouWebDev/Mumble-Docs/pull/1) in [MidouWebDev/Mumble-Docs](https://github.com/MidouWebDev/Mumble-Docs)
 2. 🗣 Commented on [#348](https://github.com/divanov11/Mumble/issues/348) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-3. ❗️ Closed issue [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-4. ❗️ Reopened issue [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-5. 🗣 Commented on [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-6. ❗️ Closed issue [#342](https://github.com/divanov11/Mumble/issues/342) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-7. 🗣 Commented on [#342](https://github.com/divanov11/Mumble/issues/342) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-8. 🎉 Merged PR [#346](https://github.com/divanov11/Mumble/pull/346) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-9. 🗣 Commented on [#345](https://github.com/divanov11/Mumble/issues/345) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-10. ❗️ Closed issue [#345](https://github.com/divanov11/Mumble/issues/345) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+3. 🗣 Commented on [#348](https://github.com/divanov11/Mumble/issues/348) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+4. ❗️ Closed issue [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+5. ❗️ Reopened issue [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+6. 🗣 Commented on [#341](https://github.com/divanov11/Mumble/issues/341) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+7. ❗️ Closed issue [#342](https://github.com/divanov11/Mumble/issues/342) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+8. 🗣 Commented on [#342](https://github.com/divanov11/Mumble/issues/342) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+9. 🎉 Merged PR [#346](https://github.com/divanov11/Mumble/pull/346) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+10. 🗣 Commented on [#345](https://github.com/divanov11/Mumble/issues/345) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 
     <!--END_SECTION:activity-->
 
