@@ -1,5 +1,5 @@
 <!-- Created first on April 1st, 2021 -->
-<!-- Enhanced the README Profile on May 9th, 2021 -->
+<!-- Enhanced the README Profile on May 11th, 2021 -->
 
 #
 
@@ -46,6 +46,11 @@
       <td><a href="https://github.com/divanov11/mumbleapi"><b>MUMBLE API</b></a></td>
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/divanov11">Dennis Ivy</a></td>
+    </tr>
+	   <tr>
+      <td><a href="https://github.com/MidouWebDev/Mumble-Docs"><b>MUMBLE DOCS</b></a></td>
+      <td><b>Open Source<b></td>
+      <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
 
   </tbody>
