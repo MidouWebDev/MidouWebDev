@@ -48,7 +48,7 @@
       <td><a href="https://github.com/divanov11">Dennis Ivy</a></td>
     </tr>
 	   <tr>
-      <td><a href="https://github.com/MidouWebDev/Mumble-Docs"><b>MUMBLE DOCS</b></a></td>
+      <td><a href="https://github.com/MidouWebDev/Mumble-docs"><b>MUMBLE DOCS</b></a></td>
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
