@@ -140,16 +140,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/divanov11/Mumble/issues/374) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-2. ❗️ Closed issue [#1](https://github.com/PraveenMalethia/mumble-vue/issues/1) in [PraveenMalethia/mumble-vue](https://github.com/PraveenMalethia/mumble-vue)
-3. 🗣 Commented on [#1](https://github.com/PraveenMalethia/mumble-vue/issues/1) in [PraveenMalethia/mumble-vue](https://github.com/PraveenMalethia/mumble-vue)
-4. 🗣 Commented on [#374](https://github.com/divanov11/Mumble/issues/374) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-5. 🗣 Commented on [#386](https://github.com/divanov11/Mumble/issues/386) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-6. ❗️ Opened issue [#1](https://github.com/PraveenMalethia/mumble-vue/issues/1) in [PraveenMalethia/mumble-vue](https://github.com/PraveenMalethia/mumble-vue)
-7. 🗣 Commented on [#146](https://github.com/divanov11/mumbleapi/issues/146) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
-8. 🗣 Commented on [#392](https://github.com/divanov11/Mumble/issues/392) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-9. 🗣 Commented on [#386](https://github.com/divanov11/Mumble/issues/386) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-10. 🗣 Commented on [#139](https://github.com/divanov11/mumbleapi/issues/139) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
+1. 🗣 Commented on [#394](https://github.com/divanov11/Mumble/issues/394) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+2. 🗣 Commented on [#151](https://github.com/divanov11/mumbleapi/issues/151) in [divanov11/mumbleapi](https://github.com/divanov11/mumbleapi)
+3. 🗣 Commented on [#395](https://github.com/divanov11/Mumble/issues/395) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+4. 🗣 Commented on [#402](https://github.com/divanov11/Mumble/issues/402) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+5. 🗣 Commented on [#394](https://github.com/divanov11/Mumble/issues/394) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+6. 🗣 Commented on [#374](https://github.com/divanov11/Mumble/issues/374) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+7. ❗️ Closed issue [#1](https://github.com/PraveenMalethia/mumble-vue/issues/1) in [PraveenMalethia/mumble-vue](https://github.com/PraveenMalethia/mumble-vue)
+8. 🗣 Commented on [#1](https://github.com/PraveenMalethia/mumble-vue/issues/1) in [PraveenMalethia/mumble-vue](https://github.com/PraveenMalethia/mumble-vue)
+9. 🗣 Commented on [#374](https://github.com/divanov11/Mumble/issues/374) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+10. 🗣 Commented on [#386](https://github.com/divanov11/Mumble/issues/386) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 
     <!--END_SECTION:activity-->
 
