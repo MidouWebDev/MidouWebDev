@@ -140,16 +140,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#426](https://github.com/divanov11/Mumble/issues/426) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-2. 🗣 Commented on [#426](https://github.com/divanov11/Mumble/issues/426) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-3. 🗣 Commented on [#428](https://github.com/divanov11/Mumble/issues/428) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-4. ❗️ Opened issue [#429](https://github.com/divanov11/Mumble/issues/429) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-5. ❗️ Opened issue [#428](https://github.com/divanov11/Mumble/issues/428) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-6. ❗️ Closed issue [#425](https://github.com/divanov11/Mumble/issues/425) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-7. 🗣 Commented on [#425](https://github.com/divanov11/Mumble/issues/425) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-8. ❗️ Reopened issue [#425](https://github.com/divanov11/Mumble/issues/425) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-9. ❗️ Closed issue [#425](https://github.com/divanov11/Mumble/issues/425) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-10. 🗣 Commented on [#426](https://github.com/divanov11/Mumble/issues/426) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+1. 🗣 Commented on [#431](https://github.com/divanov11/Mumble/issues/431) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+2. ❗️ Opened issue [#431](https://github.com/divanov11/Mumble/issues/431) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+3. ❗️ Closed issue [#429](https://github.com/divanov11/Mumble/issues/429) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+4. 🗣 Commented on [#429](https://github.com/divanov11/Mumble/issues/429) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+5. ❗️ Closed issue [#426](https://github.com/divanov11/Mumble/issues/426) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+6. 🗣 Commented on [#426](https://github.com/divanov11/Mumble/issues/426) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+7. 🗣 Commented on [#428](https://github.com/divanov11/Mumble/issues/428) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+8. ❗️ Opened issue [#429](https://github.com/divanov11/Mumble/issues/429) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+9. ❗️ Opened issue [#428](https://github.com/divanov11/Mumble/issues/428) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+10. ❗️ Closed issue [#425](https://github.com/divanov11/Mumble/issues/425) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 
     <!--END_SECTION:activity-->
 
