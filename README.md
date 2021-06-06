@@ -127,7 +127,7 @@
 <br/>
 <br/>
 
-> ⚠ My Discord Id : Mehdi < MidouWebDev /> #9105
+> ⚠ My Discord Id : MidouWebDev #9105
 
 </div>
 
