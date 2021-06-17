@@ -42,17 +42,21 @@
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/divanov11">Dennis Ivy</a></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/divanov11/mumbleapi"><b>MUMBLE API</b></a></td>
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/divanov11">Dennis Ivy</a></td>
     </tr>
-	   <tr>
+    <tr>
       <td><a href="https://github.com/MidouWebDev/Mumble-docs"><b>MUMBLE DOCS</b></a></td>
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
-
+    <tr>
+      <td><a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a></td>
+      <td><b>Personal Project<b></td>
+      <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
+    </tr>
   </tbody>
 </table>
 
