@@ -53,6 +53,11 @@
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
+      <td><b>Personal Project<b></td>
+      <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a></td>
       <td><b>Personal Project<b></td>
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
