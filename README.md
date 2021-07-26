@@ -149,16 +149,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Heptagram-Bot/heptagram.xyz/issues/1) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-2. 💪 Opened PR [#4](https://github.com/Heptagram-Bot/heptagram.xyz/pull/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-3. ❗️ Opened issue [#2704](https://github.com/facebook/react-native-website/issues/2704) in [facebook/react-native-website](https://github.com/facebook/react-native-website)
-4. 🗣 Commented on [#291](https://github.com/Uniswap/uniswap-org/issues/291) in [Uniswap/uniswap-org](https://github.com/Uniswap/uniswap-org)
-5. ❌ Closed PR [#7](https://github.com/divanov11/Django-2021/pull/7) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
-6. 💪 Opened PR [#7](https://github.com/divanov11/Django-2021/pull/7) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
-7. ❗️ Closed issue [#455](https://github.com/divanov11/Mumble/issues/455) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-8. 🗣 Commented on [#455](https://github.com/divanov11/Mumble/issues/455) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-9. ❗️ Closed issue [#458](https://github.com/divanov11/Mumble/issues/458) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
-10. 🗣 Commented on [#458](https://github.com/divanov11/Mumble/issues/458) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+1. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/heptagram.xyz/issues/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+2. 🗣 Commented on [#1](https://github.com/Heptagram-Bot/heptagram.xyz/issues/1) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+3. 💪 Opened PR [#4](https://github.com/Heptagram-Bot/heptagram.xyz/pull/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+4. ❗️ Opened issue [#2704](https://github.com/facebook/react-native-website/issues/2704) in [facebook/react-native-website](https://github.com/facebook/react-native-website)
+5. 🗣 Commented on [#291](https://github.com/Uniswap/uniswap-org/issues/291) in [Uniswap/uniswap-org](https://github.com/Uniswap/uniswap-org)
+6. ❌ Closed PR [#7](https://github.com/divanov11/Django-2021/pull/7) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
+7. 💪 Opened PR [#7](https://github.com/divanov11/Django-2021/pull/7) in [divanov11/Django-2021](https://github.com/divanov11/Django-2021)
+8. ❗️ Closed issue [#455](https://github.com/divanov11/Mumble/issues/455) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+9. 🗣 Commented on [#455](https://github.com/divanov11/Mumble/issues/455) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
+10. ❗️ Closed issue [#458](https://github.com/divanov11/Mumble/issues/458) in [divanov11/Mumble](https://github.com/divanov11/Mumble)
 
     <!--END_SECTION:activity-->
 
