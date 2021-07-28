@@ -154,15 +154,15 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-2. ❗️ Opened issue [#268](https://github.com/Heptagram-Bot/Heptagram/issues/268) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-3. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-4. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-5. 💪 Opened PR [#260](https://github.com/Heptagram-Bot/Heptagram/pull/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-6. 💪 Opened PR [#258](https://github.com/Heptagram-Bot/Heptagram/pull/258) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-7. 💪 Opened PR [#5](https://github.com/Heptagram-Bot/heptagram.xyz/pull/5) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-8. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/heptagram.xyz/issues/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-9. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/heptagram.xyz/issues/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+1. 🗣 Commented on [#269](https://github.com/Heptagram-Bot/Heptagram/issues/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+2. ❌ Closed PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+3. 💪 Opened PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+4. ❗️ Opened issue [#268](https://github.com/Heptagram-Bot/Heptagram/issues/268) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+5. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+6. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+7. 💪 Opened PR [#260](https://github.com/Heptagram-Bot/Heptagram/pull/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+8. 💪 Opened PR [#258](https://github.com/Heptagram-Bot/Heptagram/pull/258) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+9. 💪 Opened PR [#5](https://github.com/Heptagram-Bot/heptagram.xyz/pull/5) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 10. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/heptagram.xyz/issues/4) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 
     <!--END_SECTION:activity-->
