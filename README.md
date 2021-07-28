@@ -62,6 +62,11 @@
       <td><b>Personal Project<b></td>
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Heptagram-Bot"><b>Heptagram Bot</b></a></td>
+      <td><b>Open Source<b></td>
+      <td><a href="https://github.com/j-dogcoder">Jasper Mayone</a></td>
+    </tr>
   </tbody>
 </table>
 
