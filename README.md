@@ -154,16 +154,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#460](https://github.com/quran/quran.com-frontend-v2/issues/460) in [quran/quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)
-2. 🗣 Commented on [#20](https://github.com/solidjs/solid-docs/issues/20) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
-3. 🗣 Commented on [#326](https://github.com/microsoft/Web-Dev-For-Beginners/issues/326) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-4. 🗣 Commented on [#269](https://github.com/Heptagram-Bot/Heptagram/issues/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-5. 🗣 Commented on [#269](https://github.com/Heptagram-Bot/Heptagram/issues/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-6. ❌ Closed PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-7. 💪 Opened PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-8. ❗️ Opened issue [#268](https://github.com/Heptagram-Bot/Heptagram/issues/268) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-9. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-10. 🗣 Commented on [#260](https://github.com/Heptagram-Bot/Heptagram/issues/260) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+1. ❌ Closed PR [#8](https://github.com/Heptagram-Bot/heptagram.xyz/pull/8) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+2. 🗣 Commented on [#8](https://github.com/Heptagram-Bot/heptagram.xyz/issues/8) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+3. 💪 Opened PR [#8](https://github.com/Heptagram-Bot/heptagram.xyz/pull/8) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+4. ❗️ Opened issue [#460](https://github.com/quran/quran.com-frontend-v2/issues/460) in [quran/quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)
+5. 🗣 Commented on [#20](https://github.com/solidjs/solid-docs/issues/20) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
+6. 🗣 Commented on [#326](https://github.com/microsoft/Web-Dev-For-Beginners/issues/326) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+7. 🗣 Commented on [#269](https://github.com/Heptagram-Bot/Heptagram/issues/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+8. 🗣 Commented on [#269](https://github.com/Heptagram-Bot/Heptagram/issues/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+9. ❌ Closed PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+10. 💪 Opened PR [#269](https://github.com/Heptagram-Bot/Heptagram/pull/269) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 
     <!--END_SECTION:activity-->
 
