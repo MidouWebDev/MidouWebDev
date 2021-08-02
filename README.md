@@ -154,16 +154,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10](https://github.com/Heptagram-Bot/heptagram.xyz/pull/10) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-2. 🗣 Commented on [#335](https://github.com/microsoft/Web-Dev-For-Beginners/issues/335) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-3. 🗣 Commented on [#10](https://github.com/Heptagram-Bot/heptagram.xyz/issues/10) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-4. ❗️ Closed issue [#460](https://github.com/quran/quran.com-frontend-v2/issues/460) in [quran/quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)
+1. 💪 Opened PR [#11](https://github.com/Heptagram-Bot/heptagram.xyz/pull/11) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+2. 🎉 Merged PR [#1](https://github.com/MidouWebDev/heptagram.xyz/pull/1) in [MidouWebDev/heptagram.xyz](https://github.com/MidouWebDev/heptagram.xyz)
+3. 🗣 Commented on [#1](https://github.com/MidouWebDev/heptagram.xyz/issues/1) in [MidouWebDev/heptagram.xyz](https://github.com/MidouWebDev/heptagram.xyz)
+4. ❌ Closed PR [#10](https://github.com/Heptagram-Bot/heptagram.xyz/pull/10) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 5. 🗣 Commented on [#335](https://github.com/microsoft/Web-Dev-For-Beginners/issues/335) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-6. 🗣 Commented on [#326](https://github.com/microsoft/Web-Dev-For-Beginners/issues/326) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-7. 💪 Opened PR [#335](https://github.com/microsoft/Web-Dev-For-Beginners/pull/335) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-8. 🗣 Commented on [#19](https://github.com/solidjs/solid-docs/issues/19) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
-9. 🗣 Commented on [#19](https://github.com/solidjs/solid-docs/issues/19) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
-10. 🗣 Commented on [#326](https://github.com/microsoft/Web-Dev-For-Beginners/issues/326) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+6. 🗣 Commented on [#10](https://github.com/Heptagram-Bot/heptagram.xyz/issues/10) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+7. ❗️ Closed issue [#460](https://github.com/quran/quran.com-frontend-v2/issues/460) in [quran/quran.com-frontend-v2](https://github.com/quran/quran.com-frontend-v2)
+8. 🗣 Commented on [#335](https://github.com/microsoft/Web-Dev-For-Beginners/issues/335) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+9. 🗣 Commented on [#326](https://github.com/microsoft/Web-Dev-For-Beginners/issues/326) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+10. 💪 Opened PR [#335](https://github.com/microsoft/Web-Dev-For-Beginners/pull/335) in [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
     <!--END_SECTION:activity-->
 
