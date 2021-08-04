@@ -67,6 +67,11 @@
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/j-dogcoder">Jasper Mayone</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/microsoft/Web-Dev-For-Beginners"><b>Web Dev For Beginners</b></a></td>
+      <td><b>Open Source<b></td>
+      <td><a href="https://github.com/microsoft">Microsoft</a></td>
+    </tr>
   </tbody>
 </table>
 
