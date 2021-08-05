@@ -159,16 +159,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Heptagram-Bot/heptagram.xyz/issues/14) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+1. 🗣 Commented on [#15](https://github.com/Heptagram-Bot/heptagram.xyz/issues/15) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 2. 🗣 Commented on [#14](https://github.com/Heptagram-Bot/heptagram.xyz/issues/14) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-3. 💪 Opened PR [#14](https://github.com/Heptagram-Bot/heptagram.xyz/pull/14) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-4. 💪 Opened PR [#13](https://github.com/Heptagram-Bot/heptagram.xyz/pull/13) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-5. ❗️ Opened issue [#278](https://github.com/Heptagram-Bot/Heptagram/issues/278) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-6. 💪 Opened PR [#12](https://github.com/Heptagram-Bot/heptagram.xyz/pull/12) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-7. 💪 Opened PR [#120](https://github.com/solidjs/solid-site/pull/120) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-8. 🗣 Commented on [#19](https://github.com/solidjs/solid-docs/issues/19) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
-9. 💪 Opened PR [#11](https://github.com/Heptagram-Bot/heptagram.xyz/pull/11) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-10. 🎉 Merged PR [#1](https://github.com/MidouWebDev/heptagram.xyz/pull/1) in [MidouWebDev/heptagram.xyz](https://github.com/MidouWebDev/heptagram.xyz)
+3. 🗣 Commented on [#14](https://github.com/Heptagram-Bot/heptagram.xyz/issues/14) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+4. 💪 Opened PR [#14](https://github.com/Heptagram-Bot/heptagram.xyz/pull/14) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+5. 💪 Opened PR [#13](https://github.com/Heptagram-Bot/heptagram.xyz/pull/13) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+6. ❗️ Opened issue [#278](https://github.com/Heptagram-Bot/Heptagram/issues/278) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+7. 💪 Opened PR [#12](https://github.com/Heptagram-Bot/heptagram.xyz/pull/12) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+8. 💪 Opened PR [#120](https://github.com/solidjs/solid-site/pull/120) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+9. 🗣 Commented on [#19](https://github.com/solidjs/solid-docs/issues/19) in [solidjs/solid-docs](https://github.com/solidjs/solid-docs)
+10. 💪 Opened PR [#11](https://github.com/Heptagram-Bot/heptagram.xyz/pull/11) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 
     <!--END_SECTION:activity-->
 
