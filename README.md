@@ -136,7 +136,7 @@
 <br/>
 
 <div align="center">
-<a href="mailto:contact.midoudev@gmail.com">
+<a href="mailto:contact.midouwebdev@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discordapp.com/users/9105">
