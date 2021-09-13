@@ -72,6 +72,11 @@
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/microsoft">Microsoft</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/solidjs/solid-site"><b>SolidJS Website</b></a></td>
+      <td><b>Open Source<b></td>
+      <td><a href="https://github.com/ryansolid">Ryan Carniato</a></td>
+    </tr>
   </tbody>
 </table>
 
