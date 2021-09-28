@@ -164,16 +164,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+1. 💪 Opened PR [#32](https://github.com/Heptagram-Bot/api/pull/32) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
 2. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
 3. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
 4. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
-5. 💪 Opened PR [#31](https://github.com/Heptagram-Bot/api/pull/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
-6. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/api/issues/4) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+5. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+6. 💪 Opened PR [#31](https://github.com/Heptagram-Bot/api/pull/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
 7. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/api/issues/4) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
-8. 🗣 Commented on [#32](https://github.com/Heptagram-Bot/heptagram.xyz/issues/32) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-9. 🗣 Commented on [#33](https://github.com/Heptagram-Bot/heptagram.xyz/issues/33) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-10. 🗣 Commented on [#1](https://github.com/Heptagram-Bot/heptagram.xyz/issues/1) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+8. 🗣 Commented on [#4](https://github.com/Heptagram-Bot/api/issues/4) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+9. 🗣 Commented on [#32](https://github.com/Heptagram-Bot/heptagram.xyz/issues/32) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+10. 🗣 Commented on [#33](https://github.com/Heptagram-Bot/heptagram.xyz/issues/33) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 
     <!--END_SECTION:activity-->
 
