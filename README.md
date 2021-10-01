@@ -164,16 +164,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-2. 💪 Opened PR [#42](https://github.com/Heptagram-Bot/heptagram.xyz/pull/42) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-3. 🗣 Commented on [#2276](https://github.com/matteobruni/tsparticles/issues/2276) in [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
-4. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-5. 💪 Opened PR [#429](https://github.com/dictu-lang/Dictu/pull/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-6. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+1. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+2. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+3. 💪 Opened PR [#42](https://github.com/Heptagram-Bot/heptagram.xyz/pull/42) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+4. 🗣 Commented on [#2276](https://github.com/matteobruni/tsparticles/issues/2276) in [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles)
+5. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+6. 💪 Opened PR [#429](https://github.com/dictu-lang/Dictu/pull/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
 7. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
 8. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-9. 🗣 Commented on [#11](https://github.com/appwrite/demos-for-react/issues/11) in [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react)
-10. 💪 Opened PR [#41](https://github.com/Heptagram-Bot/heptagram.xyz/pull/41) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+9. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+10. 🗣 Commented on [#11](https://github.com/appwrite/demos-for-react/issues/11) in [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react)
 
     <!--END_SECTION:activity-->
 
