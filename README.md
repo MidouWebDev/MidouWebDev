@@ -164,16 +164,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#429](https://github.com/dictu-lang/Dictu/pull/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-2. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+1. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+2. 💪 Opened PR [#429](https://github.com/dictu-lang/Dictu/pull/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
 3. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
 4. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-5. 🗣 Commented on [#11](https://github.com/appwrite/demos-for-react/issues/11) in [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react)
-6. 💪 Opened PR [#41](https://github.com/Heptagram-Bot/heptagram.xyz/pull/41) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-7. ❗️ Opened issue [#40](https://github.com/Heptagram-Bot/heptagram.xyz/issues/40) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-8. ❗️ Opened issue [#39](https://github.com/Heptagram-Bot/heptagram.xyz/issues/39) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-9. 🗣 Commented on [#176](https://github.com/Heptagram-Bot/Heptagram/issues/176) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-10. 🗣 Commented on [#33](https://github.com/Heptagram-Bot/api/issues/33) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+5. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+6. 🗣 Commented on [#11](https://github.com/appwrite/demos-for-react/issues/11) in [appwrite/demos-for-react](https://github.com/appwrite/demos-for-react)
+7. 💪 Opened PR [#41](https://github.com/Heptagram-Bot/heptagram.xyz/pull/41) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+8. ❗️ Opened issue [#40](https://github.com/Heptagram-Bot/heptagram.xyz/issues/40) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+9. ❗️ Opened issue [#39](https://github.com/Heptagram-Bot/heptagram.xyz/issues/39) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+10. 🗣 Commented on [#176](https://github.com/Heptagram-Bot/Heptagram/issues/176) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 
     <!--END_SECTION:activity-->
 
