@@ -164,16 +164,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/Heptagram-Bot/heptagram.xyz/pull/45) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-2. 🗣 Commented on [#44](https://github.com/Heptagram-Bot/heptagram.xyz/issues/44) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+1. 🗣 Commented on [#45](https://github.com/Heptagram-Bot/heptagram.xyz/issues/45) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+2. 💪 Opened PR [#45](https://github.com/Heptagram-Bot/heptagram.xyz/pull/45) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 3. 🗣 Commented on [#44](https://github.com/Heptagram-Bot/heptagram.xyz/issues/44) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-4. 💪 Opened PR [#1](https://github.com/OpenSCollab/Open-S-Collab/pull/1) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
+4. 🗣 Commented on [#44](https://github.com/Heptagram-Bot/heptagram.xyz/issues/44) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 5. 💪 Opened PR [#1](https://github.com/OpenSCollab/Open-S-Collab/pull/1) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
-6. 💪 Opened PR [#435](https://github.com/dictu-lang/Dictu/pull/435) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-7. 🗣 Commented on [#15](https://github.com/DevOps-Malayalam/DevOps-Community/issues/15) in [DevOps-Malayalam/DevOps-Community](https://github.com/DevOps-Malayalam/DevOps-Community)
-8. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
-9. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
-10. 🗣 Commented on [#429](https://github.com/dictu-lang/Dictu/issues/429) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+6. 💪 Opened PR [#1](https://github.com/OpenSCollab/Open-S-Collab/pull/1) in [OpenSCollab/Open-S-Collab](https://github.com/OpenSCollab/Open-S-Collab)
+7. 💪 Opened PR [#435](https://github.com/dictu-lang/Dictu/pull/435) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
+8. 🗣 Commented on [#15](https://github.com/DevOps-Malayalam/DevOps-Community/issues/15) in [DevOps-Malayalam/DevOps-Community](https://github.com/DevOps-Malayalam/DevOps-Community)
+9. 🗣 Commented on [#31](https://github.com/Heptagram-Bot/api/issues/31) in [Heptagram-Bot/api](https://github.com/Heptagram-Bot/api)
+10. 🗣 Commented on [#422](https://github.com/dictu-lang/Dictu/issues/422) in [dictu-lang/Dictu](https://github.com/dictu-lang/Dictu)
 
     <!--END_SECTION:activity-->
 
