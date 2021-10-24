@@ -21,7 +21,84 @@
 #
 
 <h3 align="center">
-  🚧 Projects
+  🚧 Currently, I am working on 
+</h3>
+
+<div align="center">
+  
+  <br/>
+  
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🚧 Projects</b></td>
+      <td><b>⬇️ Type</b></td>
+      <td><b>👨‍💼 Owner</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/aUnicornDev/tabsMonster"><b>TabsMonster Website</b></a>
+      </td>
+      <td>
+        <b>Open Source</b>
+      </td>
+      <td>
+        <a href="https://github.com/aunicorndev">Yashasvi Singh</a>
+      </td>
+    <tr>
+      <td>
+        <a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a>
+      </td>
+      <td>
+        <b>Personal Project<b>
+      </td>
+      <td>
+        <a href="https://github.com/MidouWebDev">MidouWebDev</a>
+      </td>
+    </tr>
+    </table>
+    
+</div>
+       
+#
+        
+<h3 align="center">
+  🚧 Projects I worked on
 </h3>
 
 <br/>
@@ -53,19 +130,9 @@
       <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
-      <td><b>Personal Project<b></td>
-      <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a></td>
-      <td><b>Personal Project<b></td>
-      <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Heptagram-Bot"><b>Heptagram</b></a></td>
+      <td><a href="https://github.com/solidjs/solid-site"><b>SolidJS Website</b></a></td>
       <td><b>Open Source<b></td>
-      <td><a href="https://github.com/j-dogcoder">Jasper Mayone</a></td>
+      <td><a href="https://github.com/ryansolid">Ryan Carniato</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/microsoft/Web-Dev-For-Beginners"><b>Web Dev For Beginners</b></a></td>
@@ -73,15 +140,14 @@
       <td><a href="https://github.com/microsoft">Microsoft</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/solidjs/solid-site"><b>SolidJS Website</b></a></td>
-      <td><b>Open Source<b></td>
-      <td><a href="https://github.com/ryansolid">Ryan Carniato</a></td>
+      <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
+      <td><b>Personal Project<b></td> <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
   </tbody>
 </table>
 
 </div>
-
+       
 #
 
 <h3 align="center">
@@ -113,7 +179,7 @@
   <img alt="Git" width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
+        
 #
 
 <h3 align="center">
@@ -164,16 +230,16 @@
 <br/>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/Heptagram-Bot/heptagram.xyz/issues/69) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-2. 🗣 Commented on [#68](https://github.com/Heptagram-Bot/heptagram.xyz/issues/68) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-3. 🗣 Commented on [#65](https://github.com/Heptagram-Bot/heptagram.xyz/issues/65) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-4. ❗️ Opened issue [#70](https://github.com/Heptagram-Bot/heptagram.xyz/issues/70) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-5. 🗣 Commented on [#5](https://github.com/Heptagram-Bot/Heptagram/issues/5) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-6. 🗣 Commented on [#62](https://github.com/Heptagram-Bot/heptagram.xyz/issues/62) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
-7. 🗣 Commented on [#7](https://github.com/aUnicornDev/tabsMonster/issues/7) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
-8. 🗣 Commented on [#7](https://github.com/aUnicornDev/tabsMonster/issues/7) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
-9. 🗣 Commented on [#35](https://github.com/aUnicornDev/tabsMonster/issues/35) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
-10. 💪 Opened PR [#37](https://github.com/aUnicornDev/tabsMonster/pull/37) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+1. ❗️ Opened issue [#70](https://github.com/Heptagram-Bot/heptagram.xyz/issues/70) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+2. 🗣 Commented on [#5](https://github.com/Heptagram-Bot/Heptagram/issues/5) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+3. 🗣 Commented on [#62](https://github.com/Heptagram-Bot/heptagram.xyz/issues/62) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
+4. 🗣 Commented on [#7](https://github.com/aUnicornDev/tabsMonster/issues/7) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+5. 🗣 Commented on [#7](https://github.com/aUnicornDev/tabsMonster/issues/7) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+6. 🗣 Commented on [#35](https://github.com/aUnicornDev/tabsMonster/issues/35) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+7. 💪 Opened PR [#37](https://github.com/aUnicornDev/tabsMonster/pull/37) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+8. ❗️ Opened issue [#35](https://github.com/aUnicornDev/tabsMonster/issues/35) in [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster)
+9. 🗣 Commented on [#127](https://github.com/solidjs/solid-site/issues/127) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+10. 🗣 Commented on [#62](https://github.com/Heptagram-Bot/heptagram.xyz/issues/62) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 
     <!--END_SECTION:activity-->
 
