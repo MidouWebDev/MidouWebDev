@@ -140,6 +140,11 @@
       <td><a href="https://github.com/microsoft">Microsoft</a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/dictu-lang/Dictu"><b>Dictu-Lang</b></a></td>
+      <td><b>Open Source<b></td>
+      <td><a href="https://github.com/Jason2605">Jason2605</a></td>
+    </tr>  
+    <tr>
       <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
       <td><b>Personal Project<b></td> <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
