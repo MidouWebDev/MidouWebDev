@@ -39,49 +39,6 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/aUnicornDev/tabsMonster"><b>TabsMonster Website</b></a>
-      </td>
-      <td>
-        <b>Open Source</b>
-      </td>
-      <td>
-        <a href="https://github.com/aunicorndev">Yashasvi Singh</a>
-      </td>
-    <tr>
-      <td>
         <a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a>
       </td>
       <td>
@@ -134,6 +91,49 @@
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/ryansolid">Ryan Carniato</a></td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/aUnicornDev/tabsMonster"><b>TabsMonster Website</b></a>
+      </td>
+      <td>
+        <b>Open Source</b>
+      </td>
+      <td>
+        <a href="https://github.com/aunicorndev">Yashasvi Singh</a>
+      </td>
     <tr>
       <td><a href="https://github.com/microsoft/Web-Dev-For-Beginners"><b>Web Dev For Beginners</b></a></td>
       <td><b>Open Source<b></td>
