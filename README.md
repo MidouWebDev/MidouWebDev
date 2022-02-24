@@ -39,13 +39,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a>
+        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
       </td>
       <td>
-        <b>Personal Project<b>
+        <b>Open Source<b>
       </td>
       <td>
-        <a href="https://github.com/MidouWebDev">MidouWebDev</a>
+        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
       </td>
     </tr>
     </table>
@@ -144,6 +144,17 @@
       <td><b>Open Source<b></td>
       <td><a href="https://github.com/Jason2605">Jason2605</a></td>
     </tr>  
+    <tr>
+      <td>
+        <a href="https://github.com/MidouWebDev/Frontend-Mentor-Challenges"><b>Frontend Mentor Challenges</b></a>
+      </td>
+      <td>
+        <b>Personal Project<b>
+      </td>
+      <td>
+        <a href="https://github.com/MidouWebDev">MidouWebDev</a>
+      </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
       <td><b>Personal Project<b></td> <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
