@@ -39,13 +39,35 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
+        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
       </td>
       <td>
         <b>Open Source<b>
       </td>
       <td>
-        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
       </td>
     </tr>
     </table>
@@ -93,35 +115,13 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
       </td>
       <td>
         <b>Open Source<b>
       </td>
       <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
       </td>
     </tr>
     <tr>
