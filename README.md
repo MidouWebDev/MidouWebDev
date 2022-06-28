@@ -6,7 +6,7 @@
 <div align="center">
 <img src="./my-avatar.jpg" width="180px">
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "10px"/>Hi, I am Mehdi - MidouWebDev 
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "5px"/>Hi, I am Mehdi - MidouWebDev 
 </h3>
 </div>
 
