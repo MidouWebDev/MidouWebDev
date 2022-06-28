@@ -6,7 +6,7 @@
 <div align="center">
 <img src="./my-avatar.jpg" width="180px">
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "5px"/>Hi, I am Mehdi - MidouWebDev 
+  👋 Hi, I am Mehdi - MidouWebDev
 </h3>
 </div>
 
@@ -15,8 +15,9 @@
 <br/>
 
   - 👨🏽‍💻 **I am a Full-Stack Developer.**
+  - **😉 Open source enthusiast.**
   - ⚡ I am Currently **learning, working my skills in web development.**
-  - **😉 Open source enthusiast**
+  
   
 #
 
@@ -37,6 +38,17 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
@@ -115,17 +127,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/aUnicornDev/tabsMonster"><b>TabsMonster Website</b></a>
       </td>
       <td>
@@ -177,8 +178,12 @@
   <img alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Router" width="130px" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img alt="Styled Components" width="160px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="NEXT.JS" width="100px" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Markdown" width="120px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
  
 #
@@ -228,6 +233,12 @@
 </a>
 <a href="https://discordapp.com/users/9105">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://t.me/MidouWebDev">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="">
+<img width="100px" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
 
 <br/>
