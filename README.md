@@ -49,39 +49,6 @@
         <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
     </table>
     
 </div>
@@ -154,6 +121,39 @@
       </td>
       <td>
         <a href="https://github.com/MidouWebDev">MidouWebDev</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">j-dogcoder</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">j-dogcoder</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">j-dogcoder</a>
       </td>
     </tr>
     <tr>
