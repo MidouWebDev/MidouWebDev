@@ -17,75 +17,8 @@
   - 👨🏽‍💻 **I am a Full-Stack Developer.**
   - **😉 Open source enthusiast.**
   - ⚡ I am Currently **learning, working my skills in web development.**
-  
-  
-#
+   
 
-<h3 align="center">
-  🚧 Currently, I am working on 
-</h3>
-
-<div align="center">
-  
-  <br/>
-  
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🚧 Projects</b></td>
-      <td><b>⬇️ Type</b></td>
-      <td><b>👨‍💼 Owner</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
-      </td>
-      <td>
-        <b>Open Source<b>
-      </td>
-      <td>
-        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
-      </td>
-    </tr>
-    </table>
-    
-</div>
-       
 #
         
 <h3 align="center">
@@ -160,6 +93,50 @@
       <td><a href="https://github.com/MidouWebDev/google-maps-clone"><b>Google Maps Clone</b></a></td>
       <td><b>Personal Project<b></td> <td><a href="https://github.com/MidouWebDev">MidouWebDev</a></td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/AppFlowy-IO/AppFlowy"><b>App Flowy</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/AppFlowy-IO">AppFlowy.io</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/heptagram.xyz"><b>Heptagram Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/Heptagram"><b>Heptagram Bot</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Heptagram-Bot/api"><b>Heptagram API Website</b></a>
+      </td>
+      <td>
+        <b>Open Source<b>
+      </td>
+      <td>
+        <a href="https://github.com/j-dogcoder">Jasper Mayone</a>
+      </td>
+    </tr>    
   </tbody>
 </table>
 
