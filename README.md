@@ -16,7 +16,6 @@
 
   - 👨🏽‍💻 **I am a Full-Stack Developer.**
   - **😉 Open source enthusiast.**
-  - ⚡ I am Currently **learning, working my skills in web development.**
    
 
 #
@@ -246,4 +245,5 @@
 10. 🗣 Commented on [#98](https://github.com/Heptagram-Bot/heptagram.xyz/issues/98) in [Heptagram-Bot/heptagram.xyz](https://github.com/Heptagram-Bot/heptagram.xyz)
 
     <!--END_SECTION:activity-->
+
 
